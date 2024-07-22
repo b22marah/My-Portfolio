@@ -1,2 +1,3 @@
 # My-Portfolio
-Project for my private portfolio
+
+Project for my private portfolio.
